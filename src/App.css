@@ -1,0 +1,28 @@
+.App {
+  color: rgb(12, 11, 11);
+  border:0px solid rgb(167, 167, 167);
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.Navbar {
+  background-color: rgba(20, 0, 26, 0.582);
+  height: 50px;
+  width: 100%;
+
+}
+
+.riskRate {
+  
+}
+
+.className {
+  background-color: rgba(20, 0, 26, 0.582);
+  height: 100px;
+  width: 100%;
+}
+
+
+
+
